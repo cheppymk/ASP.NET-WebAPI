@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyFirstAPI.props",
+      "PackagePath": "build\\MyFirstAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFirstAPI.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyFirstAPI.props",
+      "PackagePath": "buildTransitive\\MyFirstAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

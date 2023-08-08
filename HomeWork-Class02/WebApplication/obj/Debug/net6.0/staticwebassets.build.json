@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Bu43CLhHcg/15jUdBjHjf/ztUQtCg58nH4N8uv/70/4=",
+  "Source": "MyFirstAPI",
+  "BasePath": "_content/MyFirstAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstAPI\\wwwroot",
+      "Source": "MyFirstAPI",
+      "ContentRoot": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/MyFirstAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\index.html",
+      "SourceId": "MyFirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/MyFirstAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\script.js",
+      "SourceId": "MyFirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\HomeWork-Class02\\WebApplication\\wwwroot\\",
+      "BasePath": "_content/MyFirstAPI",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}
