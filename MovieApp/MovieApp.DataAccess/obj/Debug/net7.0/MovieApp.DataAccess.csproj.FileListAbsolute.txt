@@ -1,0 +1,17 @@
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.DataAccess.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.DataAccess.runtimeconfig.json
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.DataAccess.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.DataAccess.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.Domain.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\bin\Debug\net7.0\MovieApp.Domain.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.csproj.CopyComplete
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\refint\MovieApp.DataAccess.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\MovieApp.DataAccess.genruntimeconfig.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp.DataAccess\obj\Debug\net7.0\ref\MovieApp.DataAccess.dll

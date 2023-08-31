@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp", "MovieApp\MovieApp.csproj", "{07795683-141F-46ED-8C56-DE2512F7B8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Domain", "MovieApp.Domain\MovieApp.Domain.csproj", "{071D43DC-0D29-4417-94D2-EE47CEF860EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.DataAccess", "MovieApp.DataAccess\MovieApp.DataAccess.csproj", "{29A023E9-40ED-4CDD-8AA2-2AFBCB132910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Services", "MovieApp.Services\MovieApp.Services.csproj", "{B06EA119-2916-43F4-90EE-81D7251B2B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Helpers", "MovieApp.Helpers\MovieApp.Helpers.csproj", "{2E3B1A68-348B-4DAB-BFA0-3476B15DB76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Mappers", "MovieApp.Mappers\MovieApp.Mappers.csproj", "{4DC15EB3-B115-4C10-B01D-6EAB1E265BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.DTOs", "MovieApp.DTOs\MovieApp.DTOs.csproj", "{622F0683-EB7B-4619-89CA-267D1A32F703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07795683-141F-46ED-8C56-DE2512F7B8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07795683-141F-46ED-8C56-DE2512F7B8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07795683-141F-46ED-8C56-DE2512F7B8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07795683-141F-46ED-8C56-DE2512F7B8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071D43DC-0D29-4417-94D2-EE47CEF860EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071D43DC-0D29-4417-94D2-EE47CEF860EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071D43DC-0D29-4417-94D2-EE47CEF860EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071D43DC-0D29-4417-94D2-EE47CEF860EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A023E9-40ED-4CDD-8AA2-2AFBCB132910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A023E9-40ED-4CDD-8AA2-2AFBCB132910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A023E9-40ED-4CDD-8AA2-2AFBCB132910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A023E9-40ED-4CDD-8AA2-2AFBCB132910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06EA119-2916-43F4-90EE-81D7251B2B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06EA119-2916-43F4-90EE-81D7251B2B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06EA119-2916-43F4-90EE-81D7251B2B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06EA119-2916-43F4-90EE-81D7251B2B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3B1A68-348B-4DAB-BFA0-3476B15DB76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3B1A68-348B-4DAB-BFA0-3476B15DB76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3B1A68-348B-4DAB-BFA0-3476B15DB76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3B1A68-348B-4DAB-BFA0-3476B15DB76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC15EB3-B115-4C10-B01D-6EAB1E265BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC15EB3-B115-4C10-B01D-6EAB1E265BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC15EB3-B115-4C10-B01D-6EAB1E265BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC15EB3-B115-4C10-B01D-6EAB1E265BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622F0683-EB7B-4619-89CA-267D1A32F703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622F0683-EB7B-4619-89CA-267D1A32F703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622F0683-EB7B-4619-89CA-267D1A32F703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622F0683-EB7B-4619-89CA-267D1A32F703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA07A5CA-96A6-4056-9FEE-27BD2ADD9833}
+	EndGlobalSection
+EndGlobal
