@@ -1,15 +1,9 @@
 ﻿using MovieApp.DataAccess;
-using MovieApp.DataAccess.Implementation;
 using MovieApp.Domain.Enums;
 using MovieApp.Domain.Models;
 using MovieApp.DTOs;
 using MovieApp.Helpers;
 using MovieApp.Services.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MovieApp.Services.Implementation
 {

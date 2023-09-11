@@ -1,0 +1,514 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj",
+        "projectName": "SEDC.NotesAppFinal.DataAccess",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj",
+        "projectName": "SEDC.NotesAppFinal.Domain",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj",
+        "projectName": "SEDC.NotesAppFinal.DTOs",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Domain\\SEDC.NotesAppFinal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\SEDC.NotesAppFinal.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\SEDC.NotesAppFinal.Helpers.csproj",
+        "projectName": "SEDC.NotesAppFinal.Helpers",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\SEDC.NotesAppFinal.Helpers.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj"
+              },
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\SEDC.NotesAppFinal.Services.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\SEDC.NotesAppFinal.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\SEDC.NotesAppFinal.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\SEDC.NotesAppFinal.Mappers.csproj",
+        "projectName": "SEDC.NotesAppFinal.Mappers",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\SEDC.NotesAppFinal.Mappers.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\SEDC.NotesAppFinal.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\SEDC.NotesAppFinal.Services.csproj",
+        "projectName": "SEDC.NotesAppFinal.Services",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\SEDC.NotesAppFinal.Services.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DataAccess\\SEDC.NotesAppFinal.DataAccess.csproj"
+              },
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.DTOs\\SEDC.NotesAppFinal.DTOs.csproj"
+              },
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\SEDC.NotesAppFinal.Mappers.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Mappers\\SEDC.NotesAppFinal.Mappers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.csproj",
+        "projectName": "SEDC.NotesAppFinal",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.csproj",
+        "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\SEDC.NotesAppFinal.Helpers.csproj": {
+                "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\mkwd11-net-09-aspnetwebapi\\G1\\Class08\\SEDC.NotesAppFinal\\SEDC.NotesAppFinal.Helpers\\SEDC.NotesAppFinal.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

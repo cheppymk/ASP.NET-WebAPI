@@ -46,6 +46,19 @@
           }
         }
       },
+      "CommonServiceLocator/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        },
+        "runtime": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -58,6 +71,25 @@
             "related": ".xml"
           }
         }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
@@ -1133,13 +1165,27 @@
           }
         }
       },
+      "XAct.Core.PCL/0.0.5014": {
+        "type": "package",
+        "dependencies": {
+          "CommonServiceLocator": "1.3.0"
+        },
+        "compile": {
+          "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll": {}
+        },
+        "runtime": {
+          "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll": {}
+        }
+      },
       "MovieApp.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
-          "MovieApp.Domain": "1.0.0"
+          "MovieApp.Domain": "1.0.0",
+          "XAct.Core.PCL": "0.0.5014"
         },
         "compile": {
           "bin/placeholder/MovieApp.DataAccess.dll": {}
@@ -1152,6 +1198,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
         },
@@ -1166,6 +1213,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
           "MovieApp.Domain": "1.0.0"
         },
         "compile": {
@@ -1179,6 +1227,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
           "MovieApp.DTOs": "1.0.0",
@@ -1189,6 +1238,36 @@
         },
         "runtime": {
           "bin/placeholder/MovieApp.Helpers.dll": {}
+        }
+      },
+      "MovieApp.Mappers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
+          "Microsoft.EntityFrameworkCore": "7.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
+          "MovieApp.DTOs": "1.0.0",
+          "MovieApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieApp.Mappers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApp.Mappers.dll": {}
+        }
+      },
+      "MovieApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10"
+        },
+        "compile": {
+          "bin/placeholder/MovieApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApp.Shared.dll": {}
         }
       }
     }
@@ -1232,6 +1311,20 @@
         "lib/netstandard2.0/Azure.Identity.xml"
       ]
     },
+    "CommonServiceLocator/1.3.0": {
+      "sha512": "fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==",
+      "type": "package",
+      "path": "commonservicelocator/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "commonservicelocator.1.3.0.nupkg.sha512",
+        "commonservicelocator.nuspec",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.XML",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.pdb"
+      ]
+    },
     "Humanizer.Core/2.14.1": {
       "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "type": "package",
@@ -1248,6 +1341,21 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+      "sha512": "8/GWtq034kzrDapCHYbAnnJXIYAJzFcJoXP5OtlbjIWBQBLxEbstRv3N4DJAvlcGUXxy0DmmNVDiSlFAY8HpWw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/7.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -3511,6 +3619,18 @@
         "version.txt"
       ]
     },
+    "XAct.Core.PCL/0.0.5014": {
+      "sha512": "r0rX5Dzr0mfUp8FtVnxXlv5w+cXhz6tHfQ79lf6naLB92J+h2wkGw0q6CfOa2FiveN2ahSflf6LB2G1cOx43AQ==",
+      "type": "package",
+      "path": "xact.core.pcl/0.0.5014",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll",
+        "xact.core.pcl.0.0.5014.nupkg.sha512",
+        "xact.core.pcl.nuspec"
+      ]
+    },
     "MovieApp.DataAccess/1.0.0": {
       "type": "project",
       "path": "../MovieApp.DataAccess/MovieApp.DataAccess.csproj",
@@ -3530,10 +3650,21 @@
       "type": "project",
       "path": "../MovieApp.Helpers/MovieApp.Helpers.csproj",
       "msbuildProject": "../MovieApp.Helpers/MovieApp.Helpers.csproj"
+    },
+    "MovieApp.Mappers/1.0.0": {
+      "type": "project",
+      "path": "../MovieApp.Mappers/MovieApp.Mappers.csproj",
+      "msbuildProject": "../MovieApp.Mappers/MovieApp.Mappers.csproj"
+    },
+    "MovieApp.Shared/1.0.0": {
+      "type": "project",
+      "path": "../MovieApp.Shared/MovieApp.Shared.csproj",
+      "msbuildProject": "../MovieApp.Shared/MovieApp.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.10",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -3541,7 +3672,9 @@
       "MovieApp.DTOs >= 1.0.0",
       "MovieApp.DataAccess >= 1.0.0",
       "MovieApp.Domain >= 1.0.0",
-      "MovieApp.Helpers >= 1.0.0"
+      "MovieApp.Helpers >= 1.0.0",
+      "MovieApp.Mappers >= 1.0.0",
+      "MovieApp.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3582,6 +3715,12 @@
             },
             "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Helpers\\MovieApp.Helpers.csproj": {
               "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Helpers\\MovieApp.Helpers.csproj"
+            },
+            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Mappers\\MovieApp.Mappers.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Mappers\\MovieApp.Mappers.csproj"
+            },
+            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Shared\\MovieApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Shared\\MovieApp.Shared.csproj"
             }
           }
         }
@@ -3596,6 +3735,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[7.0.10, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.10, )"
@@ -3636,5 +3779,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CommonServiceLocator 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CommonServiceLocator",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Core.PCL 0.0.5014' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Core.PCL",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

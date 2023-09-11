@@ -1,0 +1,15 @@
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\bin\Debug\net7.0\FileArhitecture.exe
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\bin\Debug\net7.0\FileArhitecture.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\bin\Debug\net7.0\FileArhitecture.runtimeconfig.json
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\bin\Debug\net7.0\FileArhitecture.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\bin\Debug\net7.0\FileArhitecture.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\refint\FileArhitecture.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\FileArhitecture.genruntimeconfig.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\FileArhitecture\FileArhitecture\obj\Debug\net7.0\ref\FileArhitecture.dll

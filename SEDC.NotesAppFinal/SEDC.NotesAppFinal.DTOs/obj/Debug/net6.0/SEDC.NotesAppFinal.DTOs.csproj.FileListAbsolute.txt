@@ -1,0 +1,15 @@
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\bin\Debug\net6.0\SEDC.NotesAppFinal.DTOs.deps.json
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\bin\Debug\net6.0\SEDC.NotesAppFinal.DTOs.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\bin\Debug\net6.0\SEDC.NotesAppFinal.DTOs.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\bin\Debug\net6.0\SEDC.NotesAppFinal.Domain.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\bin\Debug\net6.0\SEDC.NotesAppFinal.Domain.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.csproj.CopyComplete
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\refint\SEDC.NotesAppFinal.DTOs.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\SEDC.NotesAppFinal.DTOs.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.DTOs\obj\Debug\net6.0\ref\SEDC.NotesAppFinal.DTOs.dll

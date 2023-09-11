@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dWHRe74Z1wyniRhI3DzOr3q4F+zIZYfi13p11sc8OqLQbDhXthfuSjZyAR50NXx4hXdhHu0KhGch8OTpKId+Mw==",
+  "dgSpecHash": "v8pq/Zt2VjC8JNWmnYWwBhJXnrkIKEglv1sG5qfkvx55IjsBJlTZ7FpYYbSHgQQDhulBCnLJv1Kz/RmrZ5m8Wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\ASP.NET-WebAPI\\MovieApp\\MovieApp.Domain\\MovieApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tosom\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\tosom\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

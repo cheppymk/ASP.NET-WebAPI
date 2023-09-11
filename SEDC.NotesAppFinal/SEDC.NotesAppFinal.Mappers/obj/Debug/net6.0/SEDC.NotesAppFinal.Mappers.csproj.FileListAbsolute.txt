@@ -1,0 +1,17 @@
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.Mappers.deps.json
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.Mappers.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.Mappers.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.Domain.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.DTOs.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.DTOs.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\bin\Debug\net6.0\SEDC.NotesAppFinal.Domain.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.csproj.CopyComplete
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\refint\SEDC.NotesAppFinal.Mappers.dll
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\SEDC.NotesAppFinal.Mappers.pdb
+C:\Users\tosom\OneDrive\Desktop\mkwd11-net-09-aspnetwebapi\G1\Class08\SEDC.NotesAppFinal\SEDC.NotesAppFinal.Mappers\obj\Debug\net6.0\ref\SEDC.NotesAppFinal.Mappers.dll

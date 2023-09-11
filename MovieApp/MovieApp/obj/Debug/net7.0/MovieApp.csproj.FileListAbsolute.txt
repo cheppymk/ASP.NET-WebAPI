@@ -13,7 +13,9 @@ C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\De
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Microsoft.Practices.ServiceLocation.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -47,6 +49,7 @@ C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\De
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\System.Security.Permissions.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\XAct.Core.PCL.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
@@ -62,13 +65,18 @@ C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\De
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.DataAccess.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Domain.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.DTOs.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Helpers.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Mappers.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Services.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Shared.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Domain.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Mappers.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Services.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.DataAccess.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.DTOs.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Helpers.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Shared.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\MovieApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieApp.props
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieApp.props
@@ -83,6 +91,3 @@ C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\De
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\MovieApp.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\MovieApp.genruntimeconfig.cache
 C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\ref\MovieApp.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Helpers.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\bin\Debug\net7.0\MovieApp.Helpers.pdb
-C:\Users\tosom\OneDrive\Documents\GitHub\ASP.NET-WebAPI\MovieApp\MovieApp\obj\Debug\net7.0\MovieApp.MvcApplicationPartsAssemblyInfo.cs

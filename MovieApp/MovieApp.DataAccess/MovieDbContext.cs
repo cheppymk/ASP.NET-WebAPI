@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using XSystem.Security.Cryptography;
 
 namespace MovieApp.DataAccess
 {
@@ -15,9 +16,17 @@ namespace MovieApp.DataAccess
         : base(options) { }
 
         public DbSet<Movie> Movies { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<User>();
+                
+
+            var md5 = new MD5CryptoServiceProvider();
+            var md5data = md5.ComputeHash(Encoding.ASCII.GetBytes("123456sedc"));
+            var hashedPassword = Encoding.ASCII.GetString(md5data);
+
             modelBuilder.Entity<Movie>()
                 .Property(x => x.Title)
                 .IsRequired()
